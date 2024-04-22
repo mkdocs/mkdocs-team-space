@@ -1,6 +1,4 @@
 # Welcome!
 
-This space is dedicated to collaboration between MkDocs contributors,
-authors of MkDocs plugins and themes and authors of Markdown extensions.
-
-Head over to the [Discussions tab](https://github.com/mkdocs/mkdocs-team-space/discussions)! :wink:
+After discussion we've decided on moving the discussions here into the main `mkdocs/mkdocs` repo.
+I've left out a few that were either intended as slightly private-ish discussions or that no longer seemed relevant, and now disabled discussions on this repo.
